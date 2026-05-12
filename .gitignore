@@ -1,0 +1,4 @@
+build/
+database/*.dat
+*.o
+student_db
