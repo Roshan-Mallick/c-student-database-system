@@ -48,26 +48,29 @@ c-student-database-system/
 ├── src/
 │   ├── main.c
 │   ├── database.c
+│   ├── export.c
 │   ├── file_handler.c
 │   ├── memory_manager.c
 │   └── utils.c
 │
 ├── include/
 │   ├── database.h
+│   ├── export.h
 │   ├── file_handler.h
 │   ├── memory_manager.h
 │   └── utils.h
 │
 ├── database/
-│   └── records.dat
+│   └── .gitkeep
+│
+├── exported/
+│   └── .gitkeep
 │
 ├── docs/
-│
-├── build/
-│
-├── tests/
+│   └── Documentation.pdf
 │
 ├── README.md
 ├── Makefile
 ├── LICENSE
 └── .gitignore
+```
