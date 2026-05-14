@@ -9,7 +9,6 @@ typedef struct {
     float marks;
     char contact[15];
     char email[100];
-    char address[200];
     char batch[20];
 } Student;
 
